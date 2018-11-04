@@ -1,0 +1,5 @@
+Olá! Caso você queira ver esse mesmo comando, porém na livraria discord.js, basta ir no meu outro projeto, de discord.js.
+Lá vai estar exatamente o mesmo comando, literalmente a mesma coisa, porém, em discord.js! ;D
+
+- Qualquer problema com o comando, me chama no discord!
+bugadoGC#8333
